@@ -1,0 +1,9 @@
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\StealthShooter\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\StealthShooter\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\StealthShooter\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\StealthShooter\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\StealthShooter\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\StealthShooter\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\StealthShooter\obj\Debug\UnityVS.StealthShooter.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\StealthShooter\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\StealthShooter\obj\Debug\Assembly-CSharp-firstpass.pdb
